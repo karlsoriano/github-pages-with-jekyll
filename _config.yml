@@ -1,12 +1,4 @@
-title: Blog Now
-author: Karlsoriano
-email: lavkbs29@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  See my blogs
-# social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
-
-show_excerpts: false # set to false to remove excerpts on the homepage
-
-theme: minima
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
